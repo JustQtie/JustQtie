@@ -2,6 +2,7 @@
 <img align="left" src="https://www.codedex.io/images/code-nights/duck.gif" width="300px">
 
 <h3> ♫꒰･‿･๑꒱ Hi, I'm Qtie  </h3>
+Thanks for paying a visit. There are not so many things to see though. 
 
 
 
@@ -11,7 +12,7 @@
  
 - I'm just a person who learning to code + games
  
-- Student at Da Nang University - DUT btw (terrible but happy to roll back)
+- Student at Da Nang University - DUT by the way (terrible but happy to roll back)
 <p /> 
 <br clear="left"/>
 

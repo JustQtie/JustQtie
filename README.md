@@ -6,7 +6,7 @@ Thanks for paying a visit. There are not so many things to see though.
 
 
 
-## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Qtie STATS ﾉ彡☆
+## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px"> Qtie Stats ﾉ彡☆
 
  
  

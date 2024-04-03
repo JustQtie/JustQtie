@@ -10,7 +10,7 @@ Thanks for paying a visit. There are not so many things to see though.
 
  
  
-- I'm just a person who learning to code + games
+- I'm just a person who is learning to code + games
  
 - Student at Da Nang University - DUT by the way (terrible but happy to roll back)
 <p /> 

@@ -1,5 +1,5 @@
 <p>
-<img align="left" src="https://www.codedex.io/images/code-nights/duck.gif" width="300px">
+<img align="left" src="https://www.codedex.io/api/petStatus?user=qtiepiece" width="300px">
 
 <h3> ♫꒰･‿･๑꒱ Hi, I'm Qtie  </h3>
 Thanks for paying a visit. There are not so many things to see though. 

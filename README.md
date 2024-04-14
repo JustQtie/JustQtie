@@ -27,7 +27,7 @@ Thanks for paying a visit. There are not so many things to see though.
 <img align="left" src="https://i.pinimg.com/564x/cc/31/6f/cc316f97197528e5e26e613a93ab16a4.jpg" width="53px">
 <a />
 
-<a href="https://www.codedex.io/@10221036843981">
+<a href="https://www.codedex.io/@qtiepiece">
 <img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" width="53px">
 <a />
  
